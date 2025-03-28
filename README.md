@@ -74,9 +74,9 @@ To run this project, you will need the following software:
   Visualizations: For better user experience, consider deploying the visualizations on a web platform (e.g., Flask/Django with frontend charts).
 
 ### Author
-  Sakeena Raza
-  Email: your.email@example.com
-  LinkedIn: 
+ - Sakeena Raza
+ - Email: your.email@example.com
+ - LinkedIn: 
 
 ### Contributors
 
