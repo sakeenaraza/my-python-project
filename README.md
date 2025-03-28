@@ -1,7 +1,5 @@
-# Walmart Retail Sales Analysis
+# Walmart Retail Sales Analysis 2012-2015
 
-## Project Title
-**Walmart Retail Sales Analysis 2012-2015**
 
 ## Description
 This project performs an analysis on Walmart's retail sales data spanning from 2012 to 2015. The data includes various attributes such as sales, profits, shipping costs, customer segments, and product categories. The project performs the following:
