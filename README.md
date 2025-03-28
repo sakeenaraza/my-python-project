@@ -79,9 +79,13 @@ To run this project, you will need the following software:
   LinkedIn: 
 
 ### Contributors
-  Monika Dandriyal                         Oliva Ekka                        Amad Arshad
-  Email: your.email@example.com            your.email@example.com            your.email@example.com
-  LinkedIn: mylinkedin                     mylinkedin                        mylinkedin
+
+| Name               | Email                        | LinkedIn        |
+|--------------------|------------------------------|-----------------|
+| Monika Dandriyal    | your.email@example.com       | mylinkedin      |
+| Oliva Ekka          | your.email@example.com       | mylinkedin      |
+| Amad Arshad         | your.email@example.com       | mylinkedin      |
+
 
 ### Mentor
   Omar Al-Trad
