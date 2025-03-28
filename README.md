@@ -20,7 +20,8 @@ To run this project, you will need the following software:
         pip install notebook
 -  MySQL: A relational database management system used to store and manage the data. Download MySQL from here.
 -  MySQL Connector for Python: A library to connect MySQL with Python. Install it using:
-     ```bash pip install mysql-connector-python
+     ```bash
+       pip install mysql-connector-python
 
 ### Installing
   Follow these steps to set up the environment and get the project running:
