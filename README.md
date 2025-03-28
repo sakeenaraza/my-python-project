@@ -18,9 +18,8 @@ To run this project, you will need the following software:
 - **Jupyter Notebook**: A web-based application that allows for the creation and sharing of documents that contain live code, equations, visualizations, and narrative text.     It is included with Anaconda, but you can also install it separately via pip:
     ```bash
           pip install notebook
-
-  MySQL: A relational database management system used to store and manage the data. Download MySQL from here.
-  MySQL Connector for Python: A library to connect MySQL with Python. Install it using:
+-  MySQL: A relational database management system used to store and manage the data. Download MySQL from here.
+-  MySQL Connector for Python: A library to connect MySQL with Python. Install it using:
           pip install mysql-connector-python
 
 ### Installing
