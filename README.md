@@ -82,9 +82,9 @@ To run this project, you will need the following software:
 
 | Name               | Email                        | LinkedIn        |
 |--------------------|------------------------------|-----------------|
-| Monika Dandriyal    | your.email@example.com       | mylinkedin      |
-| Oliva Ekka          | your.email@example.com       | mylinkedin      |
-| Amad Arshad         | your.email@example.com       | mylinkedin      |
+| Monika Dandriyal    | your.email@example.com       | [LinkedIn Profile](https://www.linkedin.com/in/olivaekka/)      |
+| Oliva Ekka          | your.email@example.com       | [LinkedIn Profile](https://www.linkedin.com/in/monika-dandriyal/)      |
+| Amad Arshad         | your.email@example.com       | [LinkedIn Profile](https://www.linkedin.com/in/amad-arshad-088a38350/)      |
 
 
 ### Mentor
