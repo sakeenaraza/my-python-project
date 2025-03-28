@@ -26,21 +26,21 @@ To run this project, you will need the following software:
   Follow these steps to set up the environment and get the project running:
 
   1. **Install Anaconda:**
-      Go to the Anaconda Downloads Page.
-      Choose the appropriate version for your operating system (Windows, macOS, or Linux).
-      Download and run the installer. Follow the on-screen instructions to complete the installation.
+  -    Go to the Anaconda Downloads Page.
+  -    Choose the appropriate version for your operating system (Windows, macOS, or Linux).
+  -    Download and run the installer. Follow the on-screen instructions to complete the installation.
   2. **Install Jupyter Notebook:** Jupyter Notebook is included with Anaconda, so you don’t need to install it separately. To launch Jupyter:
-      Open Anaconda Navigator (Windows) or launch it from Applications (macOS).
-      Click Launch under Jupyter Notebook.
-      Alternatively, you can launch Jupyter from the command line:
+  -    Open Anaconda Navigator (Windows) or launch it from Applications (macOS).
+  -    Click Launch under Jupyter Notebook.
+  -    Alternatively, you can launch Jupyter from the command line:
           jupyter notebook
   4. **Install MySQL Workbench:** To manage your MySQL databases, you'll need MySQL Workbench:
-      Go to the MySQL Workbench Download Page.
-      Download and install it based on your operating system.
+  -    Go to the MySQL Workbench Download Page.
+  -    Download and install it based on your operating system.
   5. **Install MySQL Connector:** To connect Python to MySQL, install the mysql-connector-python package:
            pip install mysql-connector-python
   6. **Ensure Database Setup:**
-      Before running the project, make sure your MySQL server is running locally and that you've created a database for this project. For example:
+  -    Before running the project, make sure your MySQL server is running locally and that you've created a database for this project. For example:
           CREATE DATABASE 1202project4;
 
 
