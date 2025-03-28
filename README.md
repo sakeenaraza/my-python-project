@@ -79,11 +79,11 @@ To run this project, you will need the following software:
 
 ### Contributors
 
-| Name               | Email                        | LinkedIn        |
-|--------------------|------------------------------|-----------------|
-| Monika Dandriyal    | your.email@example.com       | [LinkedIn Profile](https://www.linkedin.com/in/olivaekka/)      |
-| Oliva Ekka          | your.email@example.com       | [LinkedIn Profile](https://www.linkedin.com/in/monika-dandriyal/)      |
-| Amad Arshad         | your.email@example.com       | [LinkedIn Profile](https://www.linkedin.com/in/amad-arshad-088a38350/)      |
+| Name               | LinkedIn        |
+|--------------------|-----------------|
+| Monika Dandriyal    | [LinkedIn Profile](https://www.linkedin.com/in/olivaekka/)      |
+| Oliva Ekka          | [LinkedIn Profile](https://www.linkedin.com/in/monika-dandriyal/)      |
+| Amad Arshad         | [LinkedIn Profile](https://www.linkedin.com/in/amad-arshad-088a38350/)      |
 
 
 ### Mentor
