@@ -16,12 +16,12 @@ To run this project, you will need the following software:
 - **Anaconda**: An open-source distribution of Python and R that simplifies package management and deployment. Download it from [here](https://www.anaconda.com/products/individual).
   
 - **Jupyter Notebook**: A web-based application that allows for the creation and sharing of documents that contain live code, equations, visualizations, and narrative text.     It is included with Anaconda, but you can also install it separately via pip:
-```bash
-    pip install notebook
+    ```bash
+        pip install notebook
 -  MySQL: A relational database management system used to store and manage the data. Download MySQL from here.
 -  MySQL Connector for Python: A library to connect MySQL with Python. Install it using:
-```bash
-    pip install mysql-connector-python
+    ```bash
+        pip install mysql-connector-python
 
 ### Installing
   Follow these steps to set up the environment and get the project running:
@@ -34,18 +34,18 @@ To run this project, you will need the following software:
   -    Open Anaconda Navigator (Windows) or launch it from Applications (macOS).
   -    Click Launch under Jupyter Notebook.
   -    Alternatively, you can launch Jupyter from the command line:
-```bash
-    jupyter notebook
+    ```bash
+        jupyter notebook
   4. **Install MySQL Workbench:** To manage your MySQL databases, you'll need MySQL Workbench:
   -    Go to the MySQL Workbench Download Page.
   -    Download and install it based on your operating system.
   5. **Install MySQL Connector:** To connect Python to MySQL, install the mysql-connector-python package:
-```bash
-    pip install mysql-connector-python
+    ```bash
+        pip install mysql-connector-python
   6. **Ensure Database Setup:**
   -    Before running the project, make sure your MySQL server is running locally and that you've created a database for this project. For example:
-```bash
-    CREATE DATABASE 1202project4;
+    ```bash
+        CREATE DATABASE 1202project4;
 
 
 ### Running the Code
