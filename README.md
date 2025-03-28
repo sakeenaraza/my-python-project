@@ -93,7 +93,8 @@ To run this project, you will need the following software:
  - LinkedIn: 
   
 ### License
-  This project is licen sed under the MIT License - see the LICENSE.md file for details.
+  ### License
+This project is not licensed. It was created as part of a course project, and the dataset used is a dummy dataset.
 
 ### Acknowledgements
   Pandas: For data manipulation and analysis.
