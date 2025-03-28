@@ -33,7 +33,7 @@ To run this project, you will need the following software:
       Open Anaconda Navigator (Windows) or launch it from Applications (macOS).
       Click Launch under Jupyter Notebook.
       Alternatively, you can launch Jupyter from the command line:
-            jupyter notebook
+          jupyter notebook
   4. **Install MySQL Workbench:** To manage your MySQL databases, you'll need MySQL Workbench:
       Go to the MySQL Workbench Download Page.
       Download and install it based on your operating system.
