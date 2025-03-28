@@ -36,22 +36,21 @@ To run this project, you will need the following software:
   -    Open Anaconda Navigator (Windows) or launch it from Applications (macOS).
   -    Click Launch under Jupyter Notebook.
   -    Alternatively, you can launch Jupyter from the command line:
-    ```bash
+    ```
         jupyter notebook
     ```   
   4. **Install MySQL Workbench:** To manage your MySQL databases, you'll need MySQL Workbench:
   -    Go to the MySQL Workbench Download Page.
   -    Download and install it based on your operating system.
   5. **Install MySQL Connector:** To connect Python to MySQL, install the mysql-connector-python package:
-    ```bash
+    ```
         pip install mysql-connector-python
     ```   
   6. **Ensure Database Setup:**
   -    Before running the project, make sure your MySQL server is running locally and that you've created a database for this project. For example:
-    ```bash
+    ```
         CREATE DATABASE 1202project4;
     ```   
-
 
 ### Running the Code
   Open Jupyter Notebook and open the .ipynb file or script from your project directory.
@@ -73,7 +72,6 @@ To run this project, you will need the following software:
   Deploying on a cloud server: You can deploy this on platforms like AWS, Heroku, or DigitalOcean.
   Automate the process: Set up a cron job or use a cloud service for scheduled data processing if you need this to run periodically.
   Visualizations: For better user experience, consider deploying the visualizations on a web platform (e.g., Flask/Django with frontend charts).
-
 
 ### Author
   Sakeena Raza
