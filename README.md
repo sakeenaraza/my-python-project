@@ -88,9 +88,9 @@ To run this project, you will need the following software:
 
 
 ### Mentor
-  Omar Al-Trad
-  Email: your.email@example.com
-  LinkedIn: 
+ - Omar Al-Trad
+ - Email: your.email@example.com
+ - LinkedIn: 
   
 ### License
   This project is licen sed under the MIT License - see the LICENSE.md file for details.
