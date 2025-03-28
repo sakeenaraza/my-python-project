@@ -87,8 +87,7 @@ To run this project, you will need the following software:
 
 
 ### Mentor
- - Omar Al-Trad
- - Email: your.email@example.com
+ - Professor ......
  - LinkedIn: 
   
 ### License
