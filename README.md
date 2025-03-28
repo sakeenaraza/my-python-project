@@ -75,8 +75,7 @@ To run this project, you will need the following software:
 
 ### Author
  - Sakeena Raza
- - Email: your.email@example.com
- - LinkedIn: 
+ - [LinkedIn Profile](https://www.linkedin.com/in/sakeena-raza/)
 
 ### Contributors
 
