@@ -95,8 +95,8 @@ To run this project, you will need the following software:
 This project is not licensed. It was created as part of a course project, and the dataset used is a dummy dataset.
 
 ### Acknowledgements
-  Pandas: For data manipulation and analysis.
-  Matplotlib/Seaborn: For data visualization.
-  SQLAlchemy: For SQL database interaction.
-  MySQL: For managing the database.
-  Anaconda: For providing the environment that integrates Python and its dependencies.
+-  Pandas: For data manipulation and analysis.
+-  Matplotlib/Seaborn: For data visualization.
+-  SQLAlchemy: For SQL database interaction.
+-  MySQL: For managing the database.
+-  Anaconda: For providing the environment that integrates Python and its dependencies.
