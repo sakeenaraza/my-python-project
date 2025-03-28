@@ -20,7 +20,8 @@ To run this project, you will need the following software:
     pip install notebook
 -  MySQL: A relational database management system used to store and manage the data. Download MySQL from here.
 -  MySQL Connector for Python: A library to connect MySQL with Python. Install it using:
-    pip install mysql-connector-python
+     ```bash
+     pip install mysql-connector-python
 
 ### Installing
   Follow these steps to set up the environment and get the project running:
@@ -33,7 +34,8 @@ To run this project, you will need the following software:
   -    Open Anaconda Navigator (Windows) or launch it from Applications (macOS).
   -    Click Launch under Jupyter Notebook.
   -    Alternatively, you can launch Jupyter from the command line:
-          jupyter notebook
+     ```bash
+       jupyter notebook
   4. **Install MySQL Workbench:** To manage your MySQL databases, you'll need MySQL Workbench:
   -    Go to the MySQL Workbench Download Page.
   -    Download and install it based on your operating system.
@@ -41,7 +43,8 @@ To run this project, you will need the following software:
            pip install mysql-connector-python
   6. **Ensure Database Setup:**
   -    Before running the project, make sure your MySQL server is running locally and that you've created a database for this project. For example:
-          CREATE DATABASE 1202project4;
+     ```bash
+ CREATE DATABASE 1202project4;
 
 
 ### Running the Code
