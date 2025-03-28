@@ -40,11 +40,12 @@ To run this project, you will need the following software:
   -    Go to the MySQL Workbench Download Page.
   -    Download and install it based on your operating system.
   5. **Install MySQL Connector:** To connect Python to MySQL, install the mysql-connector-python package:
-           pip install mysql-connector-python
+     ```bash
+        pip install mysql-connector-python
   6. **Ensure Database Setup:**
   -    Before running the project, make sure your MySQL server is running locally and that you've created a database for this project. For example:
      ```bash
- CREATE DATABASE 1202project4;
+        CREATE DATABASE 1202project4;
 
 
 ### Running the Code
