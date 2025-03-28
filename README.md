@@ -78,6 +78,16 @@ To run this project, you will need the following software:
   Email: your.email@example.com
   LinkedIn: 
 
+### Contributors
+  Monika Dandriyal                         Oliva Ekka                        Amad Arshad
+  Email: your.email@example.com            your.email@example.com            your.email@example.com
+  LinkedIn: mylinkedin                     mylinkedin                        mylinkedin
+
+### Mentor
+  Omar Al-Trad
+  Email: your.email@example.com
+  LinkedIn: 
+  
 ### License
   This project is licen sed under the MIT License - see the LICENSE.md file for details.
 
