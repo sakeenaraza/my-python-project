@@ -53,25 +53,25 @@ To run this project, you will need the following software:
     ```   
 
 ### Running the Code
-  Open Jupyter Notebook and open the .ipynb file or script from your project directory.
-  Run the script step by step to load the data, clean it, insert it into the MySQL database, and execute SQL queries.
-  The script will output a graph showing the sales trends across different states and a bar chart displaying profits by product category and region.
+-  Open Jupyter Notebook and open the .ipynb file or script from your project directory.
+-  Run the script step by step to load the data, clean it, insert it into the MySQL database, and execute SQL queries.
+-  The script will output a graph showing the sales trends across different states and a bar chart displaying profits by product category and region.
 
 ### Running the Tests (Optional)
   (Optional if you're testing) 
   If you wish to test the different components of the code (e.g., MySQL connection, data loading, etc.), you can follow the test instructions provided above. It ensures the    project is running smoothly before deployment.
 
 ### Breakdown of Tests
-  Test MySQL Connection: Checks if the connection to the MySQL server is successful.
-  Test Data Insertion: Verifies if the data was inserted correctly into the walmartretailsales table.
-  Test Sales Growth Query: Ensures the sales query returns correct data for each state and year.
-  Test Product Profit Query: Verifies the profitability of products by region.
+ - Test MySQL Connection: Checks if the connection to the MySQL server is successful.
+ - Test Data Insertion: Verifies if the data was inserted correctly into the walmartretailsales table.
+ - Test Sales Growth Query: Ensures the sales query returns correct data for each state and year.
+ - Test Product Profit Query: Verifies the profitability of products by region.
 
 ### Deployment
   Once you’ve tested everything locally and are ready to deploy:
-  Deploying on a cloud server: You can deploy this on platforms like AWS, Heroku, or DigitalOcean.
-  Automate the process: Set up a cron job or use a cloud service for scheduled data processing if you need this to run periodically.
-  Visualizations: For better user experience, consider deploying the visualizations on a web platform (e.g., Flask/Django with frontend charts).
+-  Deploying on a cloud server: You can deploy this on platforms like AWS, Heroku, or DigitalOcean.
+-  Automate the process: Set up a cron job or use a cloud service for scheduled data processing if you need this to run periodically.
+-  Visualizations: For better user experience, consider deploying the visualizations on a web platform (e.g., Flask/Django with frontend charts).
 
 ### Author
  - Sakeena Raza
