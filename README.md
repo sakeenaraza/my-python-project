@@ -80,8 +80,8 @@ To run this project, you will need the following software:
 
 | Name               | LinkedIn        |
 |--------------------|-----------------|
-| Monika Dandriyal    | [LinkedIn Profile](https://www.linkedin.com/in/olivaekka/)      |
-| Oliva Ekka          | [LinkedIn Profile](https://www.linkedin.com/in/monika-dandriyal/)      |
+| Oliva Ekka    | [LinkedIn Profile](https://www.linkedin.com/in/olivaekka/)      |
+| Monika Dandriyal          | [LinkedIn Profile](https://www.linkedin.com/in/monika-dandriyal/)      |
 | Amad Arshad         | [LinkedIn Profile](https://www.linkedin.com/in/amad-arshad-088a38350/)      |
 
 
